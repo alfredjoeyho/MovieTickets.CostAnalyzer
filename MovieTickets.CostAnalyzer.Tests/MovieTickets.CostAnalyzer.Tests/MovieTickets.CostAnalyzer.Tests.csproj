@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\CodingTest.MovieTickets.CostAnalyzer[71]\CodingTest.MovieTickets.CostAnalyzer[71]\src\MovieTickets.CostAnalyzer\MovieTickets.CostAnalyzer.csproj" />
+  </ItemGroup>
+
+</Project>
